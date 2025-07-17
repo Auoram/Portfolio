@@ -1,5 +1,6 @@
 # React + Vite
-# My Portfolio Website
+
+# My Portfolio Website "Maroua Boumchich"
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a web developer and data analyst.
 
 ## About
